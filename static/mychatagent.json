@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mychatagent-sedo",
+  "private_key_id": "f46f76a35e59e69e83a52ab2f0a97cd84567e92d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxL5kNhUJ5g8sy\nW9dH4VgtrmGHCAh4q+bSlJEDYW6OimxF+wRi4uWhkXCkJcqkWLQjwWUpPCwOler7\nWMgcVdPQEIx/WZUU5SgaVOTi5WCEp1DIqf2cAGKn5VBTb1livcjCyEh7lBNZyOw1\nCh/qj4sVEtg6Si1DqxvzXI2KnbhiwfydGWCihIw541v1l++4T8tTT7mdsldr/sTV\nq0ILNLZJsUWqUeZDbCl/L+23lYsEqEgIFwevVnlPeI95xwLDAHdH4fLFrUFV19Sf\noZpXnIisltLQ68l8Typ3Udve1GS27VQ85jLaGBXCaCURT6TtD+QiSoYNrR5UCU+1\nVmclyTiNAgMBAAECggEAA0aBek4B1hQ5H+OxvZrtUd7c362m1nA7Ep57dcgJzqnB\naaPDx34xR4TUQ7yNG++l2Nlc4N/DYrujveS8wkVV5o0/w6TozBuWW7JBDu61k44y\nQJtf3E/ngvoKu5gd22TtvqgMKvioSOsdbreSsnfX1tpj0+QGJS+XEy8dULgsreqn\nO8Q2VqMFN5nLI9KMtfNqAHGSLfZgLf+6FajQ7w0ujuQHIgLu+8kNGhB1RWrv0bE4\nArUpH5sRs0H+IFotEyyHDJx4zHbXIJz2VVbnHACjpfa7n7gFIZXbi/9XOTrzStUp\nECdsCMwA+glnzt9Ix+fnN7qmSC9Cj1IY7j6L4JVBMwKBgQDa4AeIqnN30L54mZBB\nW+tTzjeMg/hbiXreFLc4RlrPjDw1w1uKz2o+I3kA3C4850BbFjkRaVi5FR1xRfGN\n1+2Su218xnXjdkioefrvKJLNYNIFCYdLifEWpq65/trmFCzAI0IAYcQ2CD9R4ELG\noZoV7SpxudL1VjF1eNaAWFwsRwKBgQDPPVhmAAVG/lNTOQS3PFpVh4JVIugf8Hs4\nV74ihR4Ga8S4aYltymzdfkA0aUDMBv/QOO+kVcxzj0LXjXhkC5f4RtMKWU9UsPJk\nm7j1KWLEJi5VcvHIhCwuQlhIUWkPiI9dnzD+jC67RJdfOvZU53jy8nxQKa/z1JrW\nQUJHjeZiiwKBgE8UyMQRSf0Nd/RdD6j9zC4QgTOM7ywrpTAebgCwMtlwgsSuHCIw\nROPEr1CnPTGWIEOI6P+of30H6wZlThyA2v68J5gAoNGZiDEPOaI1l60LAXb+dVrO\nsUQM326mbXLZ8T1Ov+cha+JV4oLzs0zPULwBX+eNS3KHPQGDsoTW6B67AoGAT9Km\nKOubHMQ7HhQZP+bMOKNwTRCb7il3nLUXND6n2PtLk2h7GcHdetb1LfrYjX2orPAx\nRdASZvRoX5RLKeXZTDUjdpn913YsdxoP/MZLF5hJQnp6rKxURCEj1f8dg3ErH3mA\nqpseKN17nJ+eYAeka5eA0HOuJTHfzeTm/Z6nfY8CgYAQzvDwm3OOfUlBqcZoS9LV\nqOf/uGD4buiv99Zhv8lxexiFes10XASwFYVrSh3tAUWFo2Q1OlxaxZY9tHLXJOUu\nFm3rw4lfs7Tgst7G+OydTa7Z90pTtNrUe9Nw3W83zubHJZcJnbJcjwJ33eFs7UwD\nMQChAAQUSrh3j+b8cQqq2w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "myservices@mychatagent-sedo.iam.gserviceaccount.com",
+  "client_id": "110417459328592351762",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myservices%40mychatagent-sedo.iam.gserviceaccount.com"
+}

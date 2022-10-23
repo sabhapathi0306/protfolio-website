@@ -1,0 +1,5 @@
+dj_database_url==1.0.0
+Django==3.2.1
+django_heroku==0.3.1
+python-decouple==3.6
+requests==2.24.0
